@@ -1,0 +1,13 @@
+{
+  "name": "JS-Protractor-Selenium",
+  "version": "0.0.0",
+  "description": "Parallel tests protractor  =============",
+  "main": "",
+  "scripts": {
+    "test": "./node_modules/.bin/protractor conf.js"
+  },
+  "devDependencies": {
+  	"protractor": "5.3.2",
+  	"https-proxy-agent": "latest"
+  }
+}
